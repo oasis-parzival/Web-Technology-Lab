@@ -1,2 +1,1 @@
-# TestWT
-Web Technologies
+Web Technology Lab - SEM IV
